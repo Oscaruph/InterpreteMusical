@@ -1,0 +1,29 @@
+    Instituto Politecnico Nacional
+    
+	Escuela Superior de Computo 
+    
+	Unidad de Aprendiza:
+        Compiladores
+    
+	Profesor:
+        Rafael Norman Saucedo Delgado
+    
+	Alumno:
+        Oscar Uriel Perez Hernandez
+    
+	Grupo:
+        3CV6
+    
+	Proyecto:
+        Interprete de Notas Musicales
+		
+	Ejecucion:
+	
+	*Instalar la biblioteca de python Pygame
+	*Instalar la biblioteca de python PySynth
+	*De no ser posible instalar la bibliteca PySynth, poner 
+	 el archivo del Interprete Musical en la del PySynth e instalar 
+	 usando "python3 setup.py install" y posteriormente ejecutar.
+
+
+	
